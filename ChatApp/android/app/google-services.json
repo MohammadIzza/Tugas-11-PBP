@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "710220152896",
+    "project_id": "moonlit-aria-469711-a4",
+    "storage_bucket": "moonlit-aria-469711-a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710220152896:android:1168952c9e2500f7a39fa5",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1kEHM7zQVR4ZYgANWYv5NVjjgZhKZIuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710220152896:android:13d0a30196c5e8f7a39fa5",
+        "android_client_info": {
+          "package_name": "com.mahasiswaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1kEHM7zQVR4ZYgANWYv5NVjjgZhKZIuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
